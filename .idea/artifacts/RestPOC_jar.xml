@@ -1,0 +1,77 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="RestPOC:jar">
+    <output-path>$PROJECT_DIR$/build/classes/artifacts/RestPOC_jar</output-path>
+    <root id="archive" name="RestPOC.jar">
+      <element id="module-output" name="RestPOC" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/commons-collections/commons-collections/3.2/f951934aa5ae5a88d7e6dfaa6d32307d834a88be/commons-collections-3.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.hamcrest/hamcrest-core/1.3/42a25dc3219429f0e5d060061f71acb49bf010a0/hamcrest-core-1.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.slf4j/slf4j-log4j12/1.7.5/6edffc576ce104ec769d954618764f39f0f0f10d/slf4j-log4j12-1.7.5.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.codahale.metrics/metrics-core/3.0.2/c6a7fb32776e984b64ff1a548e3044238ea5a931/metrics-core-3.0.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/javax.validation/validation-api/1.1.0.Final/8613ae82954779d518631e05daa73a6a954817d5/validation-api-1.1.0.Final.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.glassfish.hk2.external/aopalliance-repackaged/2.3.0-b05/c33dd31ce9589b99c40c16e3f2f4faab5877848a/aopalliance-repackaged-2.3.0-b05.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/commons-lang/commons-lang/2.6/ce1edb914c94ebc388f086c6827e8bdeec71ac2/commons-lang-2.6.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.json/json/20090211/c183aa3a2a6250293808bba12262c8920ce5a51c/json-20090211.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/httpclient/4.3.4/a9a1fef2faefed639ee0d0fba5b3b8e4eb2ff2d8/httpclient-4.3.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/stax/stax-api/1.0.1/49c100caf72d658aca8e58bd74a4ba90fa2b0d70/stax-api-1.0.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.sun.xml.ws/policy/2.2.2/4540f3f787260eae70759eb8b7b00cbfe0254813/policy-2.2.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/javax.annotation/javax.annotation-api/1.2/479c1e06db31c432330183f5cae684163f186146/javax.annotation-api-1.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/javax.xml.bind/jaxb-api/2.2.3/184d5f1060c41a8fa28e55b8b7d2c96bec99b079/jaxb-api-2.2.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.glassfish.jersey.media/jersey-media-json-jackson/2.10.1/30d1d3dcca9703d96aa8d1eff81e543d76d7ee42/jersey-media-json-jackson-2.10.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.glassfish.jersey.core/jersey-common/2.10.1/c5a39f64454e4052c53c233c3bcafe1b6d1020fc/jersey-common-2.10.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.jaxrs/jackson-jaxrs-json-provider/2.3.2/8e635e82db2437804e19e746f460392d791856cf/jackson-jaxrs-json-provider-2.3.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.glassfish.hk2.external/javax.inject/2.3.0-b05/483cc0bb02a31f0467bbd8cf08ab30c783f0ad28/javax.inject-2.3.0-b05.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.glassfish.jersey.core/jersey-server/2.10.1/f51b26d82c5452592376b398b4bd5bb7763ccaac/jersey-server-2.10.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/junit/junit/4.11/4e031bb61df09069aeb2bffb4019e7a5034a4ee0/junit-4.11.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.sun.istack/istack-commons-runtime/2.2.1/d01aebbe72cbb9791ce073e1ae6cab114ab89bb4/istack-commons-runtime-2.2.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.sun.xml.messaging.saaj/saaj-impl/1.3.10/e3e524025200cdae73f54ff30910daee0933b2da/saaj-impl-1.3.10.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/commons-logging/commons-logging/1.1.3/f6f66e966c70a83ffbdb6f17a0919eaf7c8aca7f/commons-logging-1.1.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.glassfish.hk2/osgi-resource-locator/1.0.1/4ed2b2d4738aed5786cfa64cba5a332779c4c708/osgi-resource-locator-1.0.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.netty/netty/3.9.0.Final/bead2f4609b302c43859f156df8911e50df0610b/netty-3.9.0.Final.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.sun.xml.txw2/txw2/20090102/f27de1e6739865ec6525126655e1ed11d75f41f9/txw2-20090102.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jvnet.staxex/stax-ex/1.4/e3609f4ac365d41fa19fc12e7490d12255ae0f1e/stax-ex-1.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/httpcore/4.3.2/31fbbff1ddbf98f3aa7377c94d33b0447c646b6e/httpcore-4.3.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-databind/2.3.2/c75edc740a6d8cb1cef6fa82fa594e0bce561916/jackson-databind-2.3.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/commons-codec/commons-codec/1.6/b7f0fc8f61ecadeb3695f0b9464755eee44374d4/commons-codec-1.6.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.sun.xml.stream.buffer/streambuffer/1.2/651895e2244ac59f66ea026ef063fb4faf0e1c78/streambuffer-1.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.glassfish.hk2/hk2-utils/2.3.0-b05/f049cac716436c2cad6c149b4d538d5cb8acd47b/hk2-utils-2.3.0-b05.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.glassfish.jersey.bundles.repackaged/jersey-guava/2.10.1/ff84dc30e1abfad53b7a95152ad23c234d5dc814/jersey-guava-2.10.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.jaxrs/jackson-jaxrs-base/2.3.2/14adfd8e7d9caacd97e1c0627486dd1cc70ff211/jackson-jaxrs-base-2.3.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.3.2/559b70ac8a0d5cad611da4223137a920147201ba/jackson-core-2.3.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.datatype/jackson-datatype-json-org/2.3.2/95d8e4a74af91b702eae27d175c88904113e8a2d/jackson-datatype-json-org-2.3.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/log4j/log4j/1.2.17/5af35056b4d257e4b64b9e8069c0746e8b08629f/log4j-1.2.17.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.sun.org.apache.xml.internal/resolver/20050927/ee4db4a5f15cbdb453808c2839f08240ac231e46/resolver-20050927.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/javax.xml.stream/stax-api/1.0-2/d6337b0de8b25e53e81b922352fbea9f9f57ba0b/stax-api-1.0-2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.glassfish.grizzly/grizzly-http/2.3.14/53933968657ab9325956c90ead38bea1e2cbe39f/grizzly-http-2.3.14.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.glassfish.ha/ha-api/3.1.8/260ac0dbf841e1d19ae0405a894515e67ef41f4b/ha-api-3.1.8.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/javax.jws/jsr181-api/1.0-MR1/401cc1d0e5f0d8f4d0532a54928ceaa27ec21258/jsr181-api-1.0-MR1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.javassist/javassist/3.18.1-GA/d9a09f7732226af26bf99f19e2cffe0ae219db5b/javassist-3.18.1-GA.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.glassfish/javax.annotation/3.1.1-b06/c05d64ce180e8717c04029519f07a8119d7c1c5a/javax.annotation-3.1.1-b06.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.module/jackson-module-jaxb-annotations/2.3.2/228f4ed947cf3403c5f4315143b6c372c28e90f/jackson-module-jaxb-annotations-2.3.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.glassfish.grizzly/grizzly-http-server-jaxws/2.3.14/9d9edde2dbfbb90266526a8ce2f9ac0b445da59a/grizzly-http-server-jaxws-2.3.14.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.codehaus.woodstox/stax2-api/3.1.1/466eab062e9d1a3ce2c4631b6d09b5e5c0cbd1b/stax2-api-3.1.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/javax.xml.soap/saaj-api/1.3.3/e3c18ebaf1439bb76124a2101d98f213a0494e78/saaj-api-1.3.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.glassfish.grizzly/grizzly-framework/2.3.14/479b809c9f862defbf540707daac09698ac115aa/grizzly-framework-2.3.14.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/javax.activation/activation/1.1/e6cb541461c2834bdea3eb920f1884d1eb508b50/activation-1.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.glassfish.jersey.core/jersey-client/2.10.1/d077105d8674d814525e05d58873ddd91e246c28/jersey-client-2.10.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jvnet/mimepull/1.6/9a108888661e4c47edec899b796c91557ebf3a35/mimepull-1.6.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-annotations/2.3.2/f312c56b704fd8aea0b6dea3ee84838131c63297/jackson-annotations-2.3.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.glassfish.grizzly/grizzly-http-server/2.3.14/7db7a8bbf85c8712b142c98df65de1022f8209ad/grizzly-http-server-2.3.14.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/log4j/apache-log4j-extras/1.2.17/85863614d82185d7e51fe21c00aa9117a523a8b6/apache-log4j-extras-1.2.17.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.guava/guava/16.0.1/5fa98cd1a63c99a44dd8d3b77e4762b066a5d0c5/guava-16.0.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.sun.xml.ws/jaxws-rt/2.2.5/7852391fc1a3d795ba45f537876b4388a3a67005/jaxws-rt-2.2.5.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.sun.xml.bind/jaxb-impl/2.2.4-1/11f85f19a107c35af457854c6778a63d6a05ca8b/jaxb-impl-2.2.4-1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.datastax.cassandra/cassandra-driver-core/2.0.2/cf91749eaa405b7861ccadd73df83855284adf2c/cassandra-driver-core-2.0.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/javax.ws.rs/javax.ws.rs-api/2.0/61f0983eb190954ccdede31e786a9e0bd9767c4a/javax.ws.rs-api-2.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.glassfish.jersey.containers/jersey-container-grizzly2-http/2.10.1/3477d24ec0a1d2e5f83057bd04df45649855ccb3/jersey-container-grizzly2-http-2.10.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.glassfish.hk2/hk2-locator/2.3.0-b05/d660b6520069ca2be37405c8d4953d7dc2f9da73/hk2-locator-2.3.0-b05.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.slf4j/slf4j-api/1.7.5/6b262da268f8ad9eff941b25503a9198f0a0ac93/slf4j-api-1.7.5.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.glassfish.hk2/hk2-api/2.3.0-b05/68806822594246e8d414b2aa0f939c648cba1852/hk2-api-2.3.0-b05.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.codehaus.woodstox/wstx-asl/3.2.3/cd702d934c0dc3c83c4842cc0711f402eba5c0ee/wstx-asl-3.2.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.glassfish.external/management-api/3.0.0-b012/707686d845faede060b79bdf018a25a469a611b4/management-api-3.0.0-b012.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/javax.xml.ws/jaxws-api/2.2.5/e369f6e45a155e98780c5658c45236179f9babb2/jaxws-api-2.2.5.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.codehaus.woodstox/woodstox-core-asl/4.1.1/1fc79e0ddf0c72408ddbbc7e558f46a15d7ba84f/woodstox-core-asl-4.1.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.glassfish.gmbal/gmbal-api-only/3.1.0-b001/3502c55c7ad2085ece6b38202b5169dd9177e0a2/gmbal-api-only-3.1.0-b001.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

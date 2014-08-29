@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="war" build-on-make="true" name="RestPOC">
+    <output-path>$PROJECT_DIR$/build/classes/artifacts/RestPOC</output-path>
+    <root id="archive" name="RestPOC.war">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/build/classes/production/RestPOC/META-INF/MANIFEST.MF" />
+      </element>
+    </root>
+  </artifact>
+</component>
